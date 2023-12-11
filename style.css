@@ -164,9 +164,10 @@ footer{
         border-radius: 5px;
         display: flex;
         background-image: url(./img/christmasTree.jpg);
-        background-size: cover;
-        width: 25vw;
         background-position: center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 25vw;
     }
     footer{
         grid-column: 1/4;
